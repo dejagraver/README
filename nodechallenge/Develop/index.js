@@ -29,7 +29,7 @@ const questions = [
     }, 
     {
         type: "input",
-        message: "Include intructions on how to use the applicatio",
+        message: "Include intructions on how to use the application",
         name: "Usage"
     }, 
     {
@@ -43,7 +43,7 @@ const questions = [
         name: "Tests"
     }, 
     {
-        type: "input",
+        type: "list",
         message: "Choose a sofware license for the application from the list of options: ",
         name: "License",
         choices:[

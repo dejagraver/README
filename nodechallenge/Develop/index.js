@@ -29,7 +29,7 @@ const questions = [
     }, 
     {
         type: "input",
-        message: "Include intructions on how to use the application",
+        message: "Include intructions on how to use the applicatio",
         name: "Usage"
     }, 
     {
@@ -44,7 +44,7 @@ const questions = [
     }, 
     {
         type: "input",
-        message: "Choose a sofware license for the application from the list of options",
+        message: "Choose a sofware license for the application from the list of options: ",
         name: "License",
         choices:[
             "MIT License", 
@@ -57,7 +57,7 @@ const questions = [
     },
     {
         type: "input",
-        message: "Enter your GitHub Username:",
+        message: "Enter your GitHub Username: ",
         name: "GitHub",
         validate: answers => {
             if (answers !== "") {
@@ -68,7 +68,7 @@ const questions = [
     },
     {
         type: "input",
-        message: "Enter your email address:",
+        message: "Enter your email address: ",
         name: "Email",
           validate: answers => {
             if (answers !== "") {

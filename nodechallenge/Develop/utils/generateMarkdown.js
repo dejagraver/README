@@ -34,41 +34,39 @@ renderLicenseSection();
 function generateMarkdown(answers) {
   
   return ` 
-  ${answers.Title}
+  <h1> ${answers.Title} </h1>
+  ![badge](https://img.shields.io/badge/license-${answers.License}-brightgreen)<br />
+
   ##Table of Contents
-  [Description](#description)
-  [Installation](#installation)
-  [Usage](#usage)
-
-  ##Description
-
+  * [Description](#description)
+  * [Installation](#installation)
+  * [Usage](#usage)
+  <br />
+  ###Description
   ${answers.Description}
-
-  ##Installation
-
+  <br />
+  ###Installation
   ${answers.Installation}
-
-  ##Usage
-
+  <br />
+  ###Usage
   ${answers.Usage}
-
-  ##Contribution
-
+  <br />
+  ###Contribution
   ${answers.Contribution}
-
-  ##Tests
-
+  <br />
+  ###Tests
   ${answers.Tests}
-
-  ##License
-
+  <br />
+  ###License
+  ![badge](https://img.shields.io/badge/license-${answers.License}-brightgreen)
   ${answers.License}
-
-  ##Questions
+  <br />
+  ###Questions
 Contact the owner of the Repository for additional questions through:
-  Email: ${answers.GitHub}
 
-  GitHub: ${answers.Email}`;
+* Email: ${answers.GitHub}
+
+* GitHub: ${answers.Email}`;
 }
 
 module.exports = generateMarkdown;

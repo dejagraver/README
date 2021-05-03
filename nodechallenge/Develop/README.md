@@ -7,26 +7,42 @@
   * [Installation](#installation)
   * [Usage](#usage)
   <br />
-  ###Description
+  ###Description   
+  <br />
+
   n
   <br />
-  ###Installation
+  ###Installation   
+  <br />
+
   j
   <br />
-  ###Usage
+  ###Usage   
+  <br />
+
   j
   <br />
-  ###Contribution
+  ###Contribution   
+  <br />
+
   n
   <br />
-  ###Tests
+  ###Tests   
+  <br />
+
   n
   <br />
-  ###License
-  ![badge](https://img.shields.io/badge/license-MIT License-brightgreen)
+  ###License   
+  <br />
+
+  ![badge](https://img.shields.io/badge/license-MIT License-brightgreen)   <br />
+
   MIT License
   <br />
-  ###Questions
+  ###Questions   
+  <br />
+
+
 Contact the owner of the Repository for additional questions through:
 
 * Email: n

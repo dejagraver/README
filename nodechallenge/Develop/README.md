@@ -1,6 +1,5 @@
  
-  <h1> README Generator </h1>
-
+  <h1> j </h1>
   <img src = "https://img.shields.io/badge/license-MIT License-brightgreen"><br />
 
   ##Table of Contents
@@ -10,20 +9,23 @@
   <br />
 
   ###Description
-  Through the use of node.js, we have created a README Generator. You can answer a series of questions that allows you to create a personal
-  README to your own customization. 
+  k
   <br />
 
   ###Installation
-  1. Create a Pull Request from: https://github.com/dejagraver/README.git
-  2. Change the directory to the main folder
-  3. Run “npm install”  
+  k
   <br />
 
   ###Usage
-  1. In the terminal enter “node index”
-  2. Follow prompts inputting your answers
-  3. Once all questions and prompts have been answered, you’ll find a file titled README.md
+  k
+  <br />
+
+  ###Contribution
+  
+  <br />
+  
+  ###Tests
+  
   <br />
 
   ###License
@@ -32,8 +34,8 @@
   <br />
 
   ###Questions <br />
-  Contact the owner of the Repository for additional questions through:
+Contact the owner of the Repository for additional questions through:
 
-* Email: dejaamaartin@gmail.com
+* Email: j
 
-* GitHub: dejagraver
+* GitHub: k

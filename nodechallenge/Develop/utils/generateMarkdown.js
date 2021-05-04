@@ -1,15 +1,17 @@
 
 // TODO: Create a function to generate markdown for README
 function generateMarkdown(answers) {
-  
+  if (!answers) {
+    return "";
+  } else {
   return ` 
   <h1> ${answers.Title} </h1>
   <img src = "https://img.shields.io/badge/license-${answers.License}-brightgreen"><br />
 
   ##Table of Contents
-  * [Description](###description)
-  * [Installation](###installation)
-  * [Usage](###usage)
+  * [Description](###Description)
+  * [Installation](###Unstallation)
+  * [Usage](###Usage)
   <br />
 
   ###Description
@@ -43,6 +45,7 @@ Contact the owner of the Repository for additional questions through:
 * Email: ${answers.GitHub}
 
 * GitHub: ${answers.Email}`;
+  }
 }
 
 module.exports = generateMarkdown;

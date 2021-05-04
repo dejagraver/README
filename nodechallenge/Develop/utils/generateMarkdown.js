@@ -35,7 +35,7 @@ function generateMarkdown(answers) {
   
   return ` 
   <h1> ${answers.Title} </h1>
-  ![badge](https://img.shields.io/badge/license-${answers.License}-brightgreen)<br />
+  <img src = "https://img.shields.io/badge/license-${answers.License}-brightgreen"><br />
 
   ##Table of Contents
   * [Description](#description)

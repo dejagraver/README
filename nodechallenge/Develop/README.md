@@ -3,9 +3,9 @@
   <img src = "https://img.shields.io/badge/license-MIT License-brightgreen"><br />
 
   ##Table of Contents
-  * [Description](###description)
-  * [Installation](###installation)
-  * [Usage](###usage)
+  * [Description](###Description)
+  * [Installation](###Installation)
+  * [Usage](###Usage)
   <br />
 
   ###Description

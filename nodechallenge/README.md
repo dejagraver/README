@@ -10,7 +10,7 @@
   * [Usage](#Usage)
   <br />
 
-  <a name="#Description">#Description</a>
+  <a name="Description">#Description</a>
   Through the use of node.js, we have created a README Generator. You can answer a series of questions that allows you to create a personal
   README to your own customization. 
   <br />

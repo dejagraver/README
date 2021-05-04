@@ -9,23 +9,20 @@
   <br />
 
   ###Description
-  s
+  Through the use of node.js, we have created a README Generator. You can answer a series of questions that allows you to create a personal
+  README to your own customization. 
   <br />
 
   ###Installation
-  s
+  1. Create a Pull Request from: https://github.com/dejagraver/README.git
+  2. Change the directory to the main folder
+  3. Run “npm install”  
   <br />
 
   ###Usage
-  s
-  <br />
-
-  ###Contribution
-  s
-  <br />
-  
-  ###Tests
-  s
+  1. In the terminal enter “node index”
+  2. Follow prompts inputting your answers
+  3. Once all questions and prompts have been answered, you’ll find a file titled README.md
   <br />
 
   ###License
@@ -34,8 +31,8 @@
   <br />
 
   ###Questions <br />
-Contact the owner of the Repository for additional questions through:
+  Contact the owner of the Repository for additional questions through:
 
-* Email: s
+* Email: dejaamaartin@gmail.com
 
-* GitHub: s
+* GitHub: dejagraver

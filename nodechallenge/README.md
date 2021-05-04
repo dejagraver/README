@@ -21,7 +21,8 @@
   3. Run “npm install”  
   <br />
 
-  ##Usage
+  ##Usage   <a name="#Usage">#Description</a>
+
   1. In the terminal enter “node index”
   2. Follow prompts inputting your answers
   3. Once all questions and prompts have been answered, you’ll find a file titled README.md

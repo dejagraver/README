@@ -7,9 +7,9 @@ function generateMarkdown(answers) {
   <img src = "https://img.shields.io/badge/license-${answers.License}-brightgreen"><br />
 
   ##Table of Contents
-  * [Description](#description)
-  * [Installation](#installation)
-  * [Usage](#usage)
+  * [Description](###description)
+  * [Installation](###installation)
+  * [Usage](###usage)
   <br />
 
   ###Description

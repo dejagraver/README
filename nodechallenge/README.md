@@ -22,10 +22,10 @@
   <br />
 
   <a name="Usage">#Usage</a>
-
-  1. In the terminal enter “node index”
+  1. From the develop folder in the terminal enter “node index”
   2. Follow prompts inputting your answers
   3. Once all questions and prompts have been answered, you’ll find a file titled README.md
+  <a href="https://youtu.be/AfFdAuX8gdY"> README Generator Demonstration </a>
   <br />
 
   #License

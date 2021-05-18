@@ -1,6 +1,6 @@
  
-  <h1> t </h1>
-  <img src = "https://img.shields.io/badge/license-MIT License-brightgreen"><br />
+  <h1> test </h1>
+  <img src = "https://img.shields.io/badge/license-Boost Software License-brightgreen"><br />
 
   #Table of Contents
   * [Description](#Description)
@@ -9,33 +9,33 @@
   <br />
 
   <a name="Description"> #Description </a>
-  t
+  test
   <br />
 
   <a name="Installation">#Installation</a>
-  t
+  test
   <br />
 
   <a name="Usage">#Usage</a>
-  t
+  test
   <br />
 
   #Contribution
-  t
+  test
   <br />
   
   #Tests
-  t
+  test
   <br />
 
   #License
-  <img src = "https://img.shields.io/badge/license-MIT License-brightgreen"><br />
-  MIT License
+  <img src = "https://img.shields.io/badge/license-Boost Software License-brightgreen"><br />
+  Boost Software License
   <br />
 
   #Questions <br />
 Contact the owner of the Repository for additional questions through:
 
-* Email: t
+* Email: test
 
-* GitHub: t
+* GitHub: test

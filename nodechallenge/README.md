@@ -17,7 +17,7 @@
 
   <a name="Installation">#Installation</a>
   1. Create a Pull Request from: https://github.com/dejagraver/README.git
-  2. Change the directory to the main folder
+  2. Change the directory to the main folder (develop)
   3. Run “npm install”  
   <br />
 
